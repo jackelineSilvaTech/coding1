@@ -7,8 +7,8 @@ console.log ("Olá, meu nome é" + "  " + nome + "  " + "e tenho" + " " + idade 
 
 //Código 2 do primeiro exercício de Javascript//
 
-/*let nome = "jackeline";
-let cidade = "recife";
+/*let nome = "Jackeline"
+let cidade = "Recife";
 
 console.log (nome + " é de" + "  "  + cidade); */
 
