@@ -90,10 +90,24 @@ else {
 
 //Código 8 (conversor de moedas) do primeiro exercício de Javascript//
 
-/*let valorMoeda = 1;
-valorMoeda = 0.1824	;
-realParaDolar = valorMoeda * 2000
-console.log (" Este é o valor da multiplicação:" + "  " + realParaDolar) */
+/*let taxaCambio = 0.1824; // real -> dolar
+let valorInicial = 2000; // em reais
+let valorFinal = valorInicial * taxaCambio;
+console.log (`${valorInicial} reais convertidos em ${valorFinal} dólares`) */
 
+//Código 9 (conversor de celcius para fahrenheit) do primeiro exercício de Javascript//
 
+/*let temperaturaCelcius = 30;
+
+let temperaturaFaren = (temperaturaCelcius * 9/5) + 32;
+
+console.log (`Após conversão, sua temperatura em fahrenheit é ${temperaturaFaren}`); */
+
+//Código 10 (calculadora de IMC) do primeiro exercício de Javascript//
+
+/*let peso = 60
+let altura = 1.67
+let imc = peso / (altura * altura)
+
+console.log (`O valor do seu IMC é ${imc.toFixed(2)}`); */
 
